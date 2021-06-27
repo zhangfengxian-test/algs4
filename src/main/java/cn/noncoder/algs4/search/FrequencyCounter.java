@@ -13,7 +13,7 @@ public class FrequencyCounter {
         Stopwatch stopwatch = new Stopwatch();
         int minLength = Integer.parseInt(args[0]);
 
-        BST<String, Integer> st = new BST<>();
+        SeparateChainingHashST<String, Integer> st = new SeparateChainingHashST<>(99);
         while (!StdIn.isEmpty()) {
             String word = StdIn.readString();
             if (word.length() < minLength) {
