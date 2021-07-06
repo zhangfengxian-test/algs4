@@ -1,9 +1,3 @@
-Algorithms/Theoretical CS/Databases/Scientific Computing
-Introduction to CS/Advanced Programming/Algorithms
-Advanced Programming/Scientific Computing
-Scientific Computing/Computational Biology
-Theoretical CS/Computational Biology/Artificial Intelligence
-Linear Algebra/Theoretical CS
-Calculus/Linear Algebra
-Artificial Intelligence/Neural Networks/Robotics/Machine Learning
-Machine Learning/Neural Networks
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc275cfd5f37c524e07370246d6bf7145ad9fa2c6bbed3a8215fac5b923541ed
+size 414
