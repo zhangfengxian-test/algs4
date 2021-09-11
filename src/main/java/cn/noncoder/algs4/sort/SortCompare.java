@@ -42,6 +42,10 @@ public class SortCompare {
                 Quick3way.sort(a);
                 break;
             }
+            case "Heap": {
+                Heap.sort(a);
+                break;
+            }
             case "Java": {
                 Arrays.sort(a);
                 break;
